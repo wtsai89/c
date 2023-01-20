@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("Hello\n");
+    printf("%i\n", 5 / 10);
 }
