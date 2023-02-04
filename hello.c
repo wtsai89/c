@@ -2,5 +2,6 @@
 
 int main(void)
 {
-    printf("%i\n", 5 / 10);
+    char test[5] = "butt";
+    printf("%c\n", test[-2]);
 }
